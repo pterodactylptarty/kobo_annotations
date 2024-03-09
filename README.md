@@ -3,8 +3,7 @@ and export them as a csv file. It should automatically locate
 your Kobo if it is plugged in and shows up in the finder (on Mac).
 It shows highlighted text, annotations, date of creation,
 author, and book title. You can also specify a specific time range,
-author, book, or all three to
-filter on.
+author, book, or all three to filter on.
 
 It can be run in the terminal on a mac, I think it also 
 will work on Linux, and I don't know about Windows. If it doesn't,
