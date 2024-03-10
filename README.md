@@ -24,5 +24,5 @@ creating a file "annotations.csv" in the directory that the file was run in.
 
 ____
 
-Used the get_kobo_mountpoint function from Karlikoss's Kobuddy function: https://github.com/karlicoss/kobuddy
+Used the get_kobo_mountpoint function from Karlikoss's Kobuddy package: https://github.com/karlicoss/kobuddy
 
